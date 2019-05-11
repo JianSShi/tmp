@@ -38,7 +38,8 @@
     "user_name": "a3"
   },
   "amount": "10",
-  "unit": "ether"
+  "unit": "ether",
+  "ratio": "1 ether as XYZ"
 },
 {
   "name": "o4",
